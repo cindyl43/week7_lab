@@ -3,23 +3,23 @@
 function Panda(name, age) {
   this.name = name;
   this.age = age;
-  this.image_alt = “A panda”;
-  this.image = “panda.jpg”;
+  this.image_alt = "panda";
+  this.image = "panda.jpg";
 }
 
 function Zebra(name, age) {
   this.name = name;
   this.age = age;
-  this.image_alt = “A zebra”;
-  this.image = “zebra.jpg”;
+  this.image_alt = "zebra";
+  this.image = "zebra.jpg";
 }
 
 
 function Tiger(name, age) {
   this.name = name;
   this.age = age;
-  this.image_alt = “A Bengal Tiger”;
-  this.image = “tiger.jpg”;
+  this.image_alt = "tiger";
+  this.image = "tiger.jpg";
 }
 
 /*** Global Variables ***/
